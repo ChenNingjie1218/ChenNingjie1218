@@ -55,6 +55,6 @@
 
 ### 🛠️ Skills
 - **Programming Languages**: C/C++, TypeScript, Python  
-- **Frameworks & Tools**: CocosCreator, Qt  
+- **Frameworks & Tools**: CocosCreator, Qt, CMake, Makefile  
 - **Databases**: Oceanbase, Neo4j
 - **Other**: Git, Linux, Docker  
